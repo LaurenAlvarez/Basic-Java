@@ -10,6 +10,7 @@ public class ReplaceOddWords {
                     else
                         System.out.print (" and ");
 
-                }
             }
-        }
+    }
+}
+                    

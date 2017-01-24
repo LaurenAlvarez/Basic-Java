@@ -6,10 +6,10 @@ public class DivisibleBy {
 
             if (x % y == 0 ) {
                 System.out.println ( x + " is divisible by " + y + ".");
-        }
+            }
             else {
                 System.out.println (x + " is not divisible by " + y + ".");
-        }
+            }
 
 
 
